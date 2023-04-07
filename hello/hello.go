@@ -19,7 +19,7 @@ package main
 import (
 	"fmt"
 
-	"golang.org/x/example/stringutil"
+	"github.com/thomaspeugeot/example/stringutil"
 )
 
 func main() {
