@@ -1,4 +1,4 @@
-module golang.org/x/example
+module github.com/thomaspeugeot/example
 
 go 1.15
 
